@@ -1,4 +1,4 @@
-Hey Its HRS's project Named "TrueFlow"
+Hey This project Named "TrueFlow"
 
 - Empower Your Cycle, Trust Your Flow.
 
